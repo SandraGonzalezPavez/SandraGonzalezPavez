@@ -1,4 +1,4 @@
-<h1>Hola, mi nombre es Sandra González y soy desarrolladora web :computer: </h1>h1>
+<h1>Hola, mi nombre es Sandra González y soy desarrolladora web :computer: </h1>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sandra-gonzález-pavez) 
 
